@@ -1,0 +1,25 @@
+<style>
+#one ul{width: 100%;height: 50px;
+margin: -1px;
+padding: 0px;
+list-style: none;
+background-color: cornflowerblue;padding-top: 20px;font-size: 20px;font-family: fantasy}
+#one li{text-align: center;display: inline;padding-left: 100px;}
+#two img{float: left;padding-top: 30px}
+#two ul{font-family: fantasy;font-size: 20px}
+   #two{float: left;width: 30%;height: 500px}  #jiang {float:right;width: 65%;height: 450px;}
+      #jiang  ul{font-size: 20px;list-style: disc;padding-bottom: 5px}
+      #jiang li{padding-top: 30px}
+       #jiang img{float: left;padding-top: 30px;}
+       #nanshen {float: left;width: 35%;height: 400px}
+       #d2 {float: right;width: 55%;height: 500px}#wen {position: absolute;left:0px;top: 800px}
+      #wen ul{font-size: 20px;list-style: disc;padding-bottom: 5px}
+      #wen li{padding-top: 30px}
+#wen img{float: left ; }
+ #wen p{font-size: 23px; font-family: fantasy;} #bin {position: absolute;left:470px;top: 790px}
+          #bin ul{font-size: 20px;}
+            #bin li{padding-top: 30px}
+            #hezi {position: absolute;left: 1040px;top: 830px;}
+#hezi {border-style: solid ;padding-top: 10px;padding-bottom: 300px;border-color: dodgerblue}
+#mo{position: absolute;top: 1400px;}   
+       #mo p{font-size: 15px;background-color: cornflowerblue;padding:8 480 8 480;text-align: center;}</style>
