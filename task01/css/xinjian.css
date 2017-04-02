@@ -1,0 +1,229 @@
+ body {
+     text-align: center;
+     margin: auto;
+     background-image: url(../images/demo_01.jpg);
+     background-repeat: no-repeat;
+     background-position: top;
+ }
+h2 {font-size: 30px;
+color: cadetblue}
+span {color: black;
+font-size: 20px}
+ #zhuti {
+     width: 1400px
+ }
+
+ #zhengti {
+     text-align: center;
+     margin: auto;
+     width: 1400px;
+ }
+
+ div {
+     margin: 0 auto;
+     text-align: center
+ }
+
+ #daohang {
+     border-color: #006986;
+     width: 1400px;
+     margin-top: 240px;
+     margin-right: auto;
+     margin-left: auto;
+     background-color: #006986
+ }
+
+ #daohang ul {
+     height: 50px;
+     text-align: center;
+     background-color: cadetblue;
+     list-style-type: none;
+     padding-top: 15px;
+ }
+
+ #daohang li {
+     display: inline;
+     padding-left: 3%;
+     padding-right: 3%;
+     font-size: 25px;
+ }
+
+ #ban1 {
+     width: 33.3%;
+     height: 400px;
+     float: left;
+ }
+
+ #ban1 li {
+     padding-top: 15px;
+ }
+
+ #ti1 {
+     width: 100%;
+     height: 50px;
+     border-bottom: solid cadetblue
+ }
+
+ .pian1 {
+     float: left;
+     width: 10px;
+     height: 10px;
+     margin-right: 10px;
+ }
+
+ #tongzhi {
+     float: left;
+     width: 150px;
+     height: 20px;
+     padding-left: 5px;
+ }
+
+ .more {
+     float: right;
+     margin-top: 25px;
+     width: 50px;
+     height: 20px
+ }
+
+ #lie1 {
+     float: left;
+     margin-top: 10px;
+     font-size: 20px;
+ }
+
+ #ban2 {
+     float: right;
+     width: 66.7%;
+     height: 400px;
+ }
+
+ #pian2 {
+     float: left;
+     padding-top: 5px;
+     padding-left: 10px;
+ }
+
+ #ban2 li {
+     padding-top: 3px;
+ }
+
+ #ban2 p {
+     text-indent: 2cm;
+     font-size: 20px;
+ }
+
+ #zhuangti {
+     float: left;
+     padding-top: -10px;
+     width: 150px;
+     height: 20px;
+     padding-left: -5px;
+ }
+
+ #ti2 {
+     width: 85%;
+     height: 50px;
+     border-bottom: solid cadetblue
+ }
+
+ #chatu {
+     float: left;
+     padding-top: 10px;
+     padding-left: 80px
+ }
+
+ #lie2 {
+     float: right;
+     margin-top: 10px;
+     padding-right: 50px;
+     font-size: 20px
+ }
+
+ #ban3 {
+     width: 33.3%;
+     height: 400px;
+     float: left;
+ }
+
+ #pian3 {
+     float: left;
+     width: 10px;
+     height: 10px;
+ }
+
+ #xuexi {
+     float: left;
+     width: 150px;
+     height: 20px;
+     padding-left: 10px;
+     padding-top: -10px;
+ }
+
+ #ti3 {
+     border-bottom: solid cadetblue;
+     width: 100%;
+     height: 50px
+ }
+
+ #lie3 {
+     float: left;
+     margin-top: 10px;
+     font-size: 20px
+ }
+
+ #lie3 li {
+     padding-top: 10px;
+ }
+
+ #ban4 {
+     float: left;
+     width: 40%;
+     height: 400px;
+ }
+
+ #jiaoyu {
+     float: left;
+     height: 20px;
+     padding-left: 60px;
+ }
+
+ #ti4 {
+     border-bottom: solid cadetblue;
+     width: 80%;
+     height: 50px;
+ }
+
+ #lie4 {
+     float: left;
+     padding-left: 50px;
+ }
+
+ #lie4 li {
+     font-size: 20px;
+     padding-top: 10px;
+ }
+
+ #kong {
+     float: right;
+     width: 26.7%;
+     height: 300px;
+     border: solid cadetblue;
+     margin-top: -350px;
+ }
+
+ #lianjie {
+     border-bottom: solid cadetblue;
+     width: 100%
+ }
+
+ #wei {
+     position: absolute;
+     top: 1100px;
+     background: cadetblue;
+     width: 1400px;
+     height: 100px;
+ }
+
+ #wei li {
+     list-style: none
+ }
