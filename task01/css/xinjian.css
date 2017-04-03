@@ -1,13 +1,18 @@
- body {
+ body {margin-left: auto;
+     margin-right: auto;
      text-align: center;
      margin: auto;
  }
  
- #pian1{min-height: 260px;
-      background-image: url("../images/demo_02.jpg");
-     background-position: top;
-     background-repeat: no-repeat;
-     margin-bottom: 0px;}
+ #pian1{
+    width: 1400px;
+    min-height: 260px;
+    background-image: url("../images/demo_02.jpg") ;
+     /*background-position: top;*/
+     /*background-repeat: no-repeat;*/
+     margin-bottom: 0px;
+     margin-left: auto;
+     margin-right: auto;}
  h2 {
      font-size: 30px;
      color: cadetblue
@@ -19,7 +24,7 @@
  }
 
  #zhuti {
-     width: 1400px
+     width: 1400px;
  }
 
  #zhengti {
@@ -35,7 +40,7 @@
 
  #daohang {
      border-color: #006986;
-     width: 1400px;
+     width: 100%;
     margin-top: -28px;
      margin-right: auto;
      margin-left: auto;
@@ -48,6 +53,8 @@
      background-color: cadetblue;
      list-style-type: none;
      padding-top: 15px;
+      margin-right: auto;
+     margin-left: auto;
  }
 
  #daohang li {
