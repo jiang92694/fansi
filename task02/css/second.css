@@ -39,7 +39,8 @@
 
  #all {
      width: 1040px;
-     margin-left: 125px;
+     margin-left:auto;
+     margin-right: auto;
  }
 
  #ban1 {
@@ -215,36 +216,37 @@
      margin-top: 65px;
      margin-left: -26px;
  }
+
  #ban5 {
      float: right;
-     
      margin-top: -269px;
      height: 270px;
      border-bottom: 2px solid lightgrey;
      border-right: 2px solid lightgrey;
      border-left: 2px solid lightgrey;
-   border-top: 2px solid lightgrey;
+     border-top: 2px solid lightgrey;
      width: 41%;
  }
+
  #ti5 h2 {
      float: left;
  }
-  #ti5 {
-    
+
+ #ti5 {
      margin-top: 2px;
      margin-left: 0px;
      width: 100%;
      border-bottom: 2px solid steelblue;
      height: 48px;
  }
-  #lie5 {
+
+ #lie5 {
      float: left;
      margin-top: -20px;
-   margin-right: 80px;
+     margin-right: 80px;
  }
 
  #lie5 li {
      padding-top: 10px;
      font-size: 15px;
  }
- 
